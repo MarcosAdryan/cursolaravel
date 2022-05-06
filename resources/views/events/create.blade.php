@@ -4,9 +4,6 @@
 
 @section('content')
 
-<h1> Home</h1>
-
-<!-- Comentario -->
-{{-- Este é o comentario do blade --}}
+<h1>Crie um evento</h1>
 
 @endsection
