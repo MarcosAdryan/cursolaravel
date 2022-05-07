@@ -6,7 +6,7 @@
 
 <h1> Home</h1>
 
-<!-- Comentario -->
+<!-- Comentario html -->
 {{-- Este é o comentario do blade --}}
 
 @endsection
